@@ -340,7 +340,7 @@ describe "The landing page" do
 end
 
 describe "The landing page" do
-  it "should have a list item with the text 'About Grubhub' in white text.", {:js => true, :points => 1} do
+  it "should have a list item with the text 'Get to know us' in white text.", {:js => true, :points => 1} do
 
     visit "/"
 
